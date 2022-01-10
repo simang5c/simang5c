@@ -4,6 +4,5 @@
 - 📫 simang5c@gmail.com
 
 <!---
-simang5c/simang5c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I love coding in R and python. I use both R and python routinely for my data analysis and automating boring tasks. Please feel free to write me for any collaboration
 --->
