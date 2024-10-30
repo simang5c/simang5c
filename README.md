@@ -1,5 +1,5 @@
 ## About Me 👋
-- 👋 Hi, I’m Simang Champramary
+- 👋 Hi, I’m Dr. Simang Champramary
 - 👀 I’m interested in Bioinformatics
 - 📫 simang5c@gmail.com
 
