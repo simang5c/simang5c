@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:simang5c@gmail.com"><img src="https://img.shields.io/badge/Email-simang5c@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/Simang5c"><img src="https://img.shields.io/badge/GitHub-Simang5c-black?style=flat-square&logo=github"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Simang-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/simang-champramary-0b074986"><img src="https://img.shields.io/badge/LinkedIn-Simang-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
