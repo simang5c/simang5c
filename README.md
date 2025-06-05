@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" alt="Simang's Profile Picture" width="150" style="border-radius: 50%;">
-</p>
 
 <h1 align="center">Simang | Bioinformatics Specialist</h1>
 <p align="center">Crafting innovative tools for single-cell transcriptomics and NGS data analysis with Python, R, and HPC expertise.</p>
