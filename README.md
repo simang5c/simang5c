@@ -53,4 +53,4 @@ I’m excited to bring my bioinformatics expertise to your team! Please reach ou
 
 ---
 
-<p align="center">Ready to make an impact in bioinformatics | Built by Simang</p>
+<p align="center">Ready to make an impact in bioinformatics | Feel free to connect</p>
