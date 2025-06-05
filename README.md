@@ -42,7 +42,7 @@ I’m Simang, a bioinformatics researcher, passionate about unlocking biological
 ## Get in Touch 📬
 I’m excited to bring my bioinformatics expertise to your team! Please reach out via:
 - **Email**: [simang5c@gmail.com](mailto:simang5c@gmail.com)
-- **LinkedIn**: [simang5c](www.linkedin.com/in/simang-champramary-0b074986)
+- **LinkedIn**: [simang5c](https://www.linkedin.com/in/simang-champramary-0b074986)
 - **GitHub**: Explore my work at [github.com/Simang5c](https://github.com/simang5c)
 
 <p align="center">
