@@ -10,7 +10,7 @@
 ---
 
 ## About Me 👋
-I’m Simang, a bioinformatics researcher at the **University of Turku**, passionate about unlocking biological insights through single-cell transcriptomics and next-generation sequencing (NGS). With a strong foundation in **Python**, **R**, and **high-performance computing (HPC)**, I develop user-friendly computational tools and pipelines to advance genomic research. I’m seeking opportunities to apply my expertise in **tool development**, **data analysis**, and **pipeline optimization** to innovative biotech projects.
+I’m Simang, a bioinformatics researcher, passionate about unlocking biological insights through single-cell transcriptomics and next-generation sequencing (NGS). With a strong foundation in **Python**, **R**, and **high-performance computing (HPC)**, I develop user-friendly computational tools and pipelines to advance genomic research. I’m seeking opportunities to apply my expertise in **tool development**, **data analysis**, and **pipeline optimization** to innovative biotech projects.
 
 - 🌍 **Location**: Turku, Finland
 - 📫 **Email**: [simang5c@gmail.com](mailto:simang5c@gmail.com)
