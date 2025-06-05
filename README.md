@@ -10,7 +10,7 @@
 ### Technical Skills
 - **Languages**: Python, R
 - **Tools**: Scanpy, ScvI, Seurat and more
-- **Pipeline Development**: Have experience with Snakemake but Learning Nextflow
+- **Pipeline Development**: Python, Snakemake, bash
 - **HPC**: Experience with cluster computing
 
 <!---
