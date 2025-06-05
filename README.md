@@ -42,8 +42,8 @@ I’m Simang, a bioinformatics researcher, passionate about unlocking biological
 ## Get in Touch 📬
 I’m excited to bring my bioinformatics expertise to your team! Please reach out via:
 - **Email**: [simang5c@gmail.com](mailto:simang5c@gmail.com)
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- **GitHub**: Explore my work at [github.com/Simang5c](https://github.com/Simang5c)
+- **LinkedIn**: [linkedin.com/in/your-linkedin](www.linkedin.com/in/simang-champramary-0b074986)
+- **GitHub**: Explore my work at [github.com/Simang5c](https://github.com/simang5c)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python">
