@@ -20,10 +20,9 @@ I’m Simang, a bioinformatics researcher, passionate about unlocking biological
 | **Category**             | **Skills**                                                                 |
 |--------------------------|---------------------------------------------------------------------------|
 | **Programming Languages** | Python, R, Bash                                                           |
-| **Bioinformatics Tools**  | Scanpy, scVI, Seurat, AnnData                                             |
-| **Pipeline Development**  | Snakemake, Nextflow, custom Python scripts                                |
-| **Data Visualization**    | Plotly, Matplotlib, Seaborn                                               |
-| **HPC & Containers**      | SLURM, Singularity (v4.3.1-noble), cluster computing                      |
+| **Pipeline Development**  | Snakemake,  custom Python scripts, bash                                |
+| **Data Visualization**    | ggplot2, Plotly, Matplotlib, Seaborn                                               |
+| **HPC & Containers**      | SLURM, Singularity, cluster computing                      |
 | **Version Control**       | Git, GitHub                                                               |
 
 ## Key Projects 📈
@@ -38,12 +37,6 @@ I’m Simang, a bioinformatics researcher, passionate about unlocking biological
 - **Transcriptomics & Meta-Transcriptomics**: Studying gene expression in diverse systems.
 - **Metagenomics**: Exploring microbial communities via sequencing.
 - **Computational Pipelines**: Optimizing workflows for scalability and reproducibility.
-
-## Why Hire Me? 🚀
-- **Proven Expertise**: Delivered the **Single Cell Explorer**, a robust tool for single-cell analysis, demonstrating end-to-end development skills.
-- **Collaborative Mindset**: Experienced in cross-disciplinary teams at the University of Turku, eager to contribute to innovative projects.
-- **Technical Versatility**: Proficient in Python, R, and HPC, with a knack for automating complex workflows.
-- **Passion for Impact**: Driven to advance genomic research through accessible, high-quality tools.
 
 ## Get in Touch 📬
 I’m excited to bring my bioinformatics expertise to your team! Please reach out via:
