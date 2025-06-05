@@ -22,6 +22,7 @@ I’m Simang, a bioinformatics researcher, passionate about unlocking biological
 | **Programming Languages** | Python, R, Bash                                                           |
 | **Pipeline Development**  | Snakemake,  custom Python scripts, bash                                |
 | **Data Visualization**    | ggplot2, Plotly, Matplotlib, Seaborn                                               |
+| **Data App Frameworks**   | streamlit, solara                                                     |
 | **HPC & Containers**      | SLURM, Singularity, cluster computing                      |
 | **Version Control**       | Git, GitHub                                                               |
 
