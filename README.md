@@ -30,7 +30,7 @@ I’m Simang, a bioinformatics researcher, passionate about unlocking biological
 - **[Single Cell Explorer](https://github.com/Simang5c/Single_cell_explorer)**  
   Developed a web-based tool using **Solara** for visualizing single-cell RNA sequencing data. Features interactive UMAP, violin, dot, and feature plots, with support for `.h5ad` files and real-time progress tracking. Deployed via **Singularity v4.3.1-noble** for seamless execution.  
   - **Tech Stack**: Python, Solara, Scanpy, Plotly, Singularity
-  - **Impact**: Streamlined analysis for researchers, showcased at University of Turku.
+  - **Impact**: Streamlined analysis for researchers
 
 ## Research Interests 🔬
 - **Single-Cell Transcriptomics**: Unraveling cellular heterogeneity with advanced sequencing.
