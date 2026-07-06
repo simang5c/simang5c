@@ -12,7 +12,7 @@
 ## About Me 👋
 I’m Simang, a bioinformatics researcher, passionate about unlocking biological insights through single-cell transcriptomics and next-generation sequencing (NGS). With a strong foundation in **Python**, **R**, and **high-performance computing (HPC)**, I develop user-friendly computational tools and pipelines to advance genomic research.
 
-- 🌍 **Location**: India
+- 🌍 **Location**: Finland
 - 📫 **Email**: [simang5c@gmail.com](mailto:simang5c@gmail.com)
 - 🔬 **Focus**: Single-cell transcriptomics, computational biology, NGS pipeline and tool development
 
